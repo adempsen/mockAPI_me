@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content ="Andrew Dempsen">
+    <meta name="description" content="Host page for images for api calls">
+    <title>Image Host | Mock api</title>
+</head>
+<body>
+    <style>
+        body {
+            box-sizing: border-box;
+            width:auto;
+            margin: 0 auto;
+        }
+        main {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin: 0;
+        }
+
+        div {  
+            width: 300px;
+            height: 300px;
+            border: 10px solid black;
+        }
+       
+        section {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        #vintage div {
+            background-color: orange;
+        }
+       #vintage-living div, 
+       #modern-living div {
+        border-color: red;
+       }
+       #vintage-dining div,
+       #modern-dining div {
+        border-color: purple;
+       }
+       
+       #vintage-bedroom div,
+       #modern-bedroom div {
+        border-color: blue;
+       }
+       #modern div {
+        background-color: pink;
+       }
+
+       #lighting div {
+        background-color: yellow;
+       }
+
+      
+    </style>
+    <main>
+        <h1>products</h1>
+        <section id="vintage" class="vintage">
+            <h2>vintage</h2>
+            <section id="vintage-living">
+                <h3>vintage living</h3>
+                <section class="mobile">
+                   <div><h4>mobile images</h4></div>
+                <div><img src="/assets/vintage/vintage-living/v-lr-chair-blue-mbl.jpg"></div>
+                <div><img src="/assets/vintage/vintage-living/v-lr-chair-orange-dsktp.jpg"></div>
+                <div><img src="/assets/vintage/vintage-living/v-lr-coffee-glass-dsktp.jpg"></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+                
+            </section>
+            <section id="vintage-dining">
+                <h3>vintage dining</h3>
+                 <section class="mobile">
+                    <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section id="vintage-bedroom">
+                <h3>vintage bedroom</h3>
+                 <section class="mobile">
+                    <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+
+        </section>
+
+        <section id="modern">
+            <h2>modern</h2>
+            <section id="modern-living">
+                <h3>modern living</h3>
+                <section class="mobile">
+                <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section id="modern-dining">
+                <h3>modern dining</h3>
+                 <section class="mobile">
+                <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section id="modern-bedroom">
+                <h3>modern bedroom</h3>
+                <section class="mobile">
+                <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+                <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+
+        </section>
+        <section id="lighting">
+            <h2>Lighting</h2>
+            <section id="all-lighting">
+                <h3>all lighting</h3>
+                <section class="mobile">
+                <div><h4>mobile images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+            <section class="desktop">
+            <div><h4>desktop images</h4></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </section>
+        </section>
+    </main>
+    
+</body>
+</html>
