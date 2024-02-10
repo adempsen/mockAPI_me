@@ -8,7 +8,7 @@
             "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-table-nested-dsktp.jpg" },
             "cat": "vintage",
             "subCat": "living",
-            "id": 01
+            "id": 1
         },
         { "title": "Wooden Side Table | Vintage", 
                 "description": "Vintage Wooden Side Table With Cutout", 
@@ -17,7 +17,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-table-books-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 02
+                "id": 2
              },
              { "title": "Oak Sideboard | Vintage", 
                 "description": "Vintage Yellow Oak Sideboard", 
@@ -26,7 +26,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-sideboard-yellow-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 03
+                "id": 3
             },
             { "title": "Wooden Bookshelf | Vintage", 
             "description": "Vintage Floor-to-Ceiling Display Shelf", 
@@ -35,7 +35,7 @@
             "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-shelf-pots-dsktp.jpg" },
             "cat": "vintage",
             "subCat": "living",
-            "id": 04
+            "id": 4
         },
         { "title": "Circular Shelf | Vintage", 
                 "description": "Vintage Coral Circular Open Shelf", 
@@ -44,7 +44,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-shelf-pink-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 05
+                "id": 5
             },
             { "title": "Wall Mounted Shelving | Vintage", 
                 "description": "Vintage Mid Century Open shelving", 
@@ -53,7 +53,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-shelf-open-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 06
+                "id": 6
             },
             { "title": "Leather Sofa | Vintage", 
             "description": "Vintage Mid Century Leather Sofa", 
@@ -62,7 +62,7 @@
             "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-dsktp-couch-leather-mbl.jpg" },
             "cat": "vintage",
             "subCat": "living",
-            "id": 07
+            "id": 7
         },
         {       "title": "Green Sofa | Vintage", 
                 "description": "Vintage Mid Century Green Suede Sofa", 
@@ -71,7 +71,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-couch-green-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 08
+                "id": 8
      },
      {          "title": "Wooden Coffee Table | Vintage", 
                 "description": "Vintage Glass-topped Wooden Coffee Table", 
@@ -80,7 +80,7 @@
                 "desktop": "https://raw.githubusercontent.com/adempsen/mockAPI_me/main/mock-api/vintage/vintage-living/v-lr-coffee-glass-dsktp.jpg" },
                 "cat": "vintage",
                 "subCat": "living",
-                "id": 09
+                "id": 9
      },
      {          "title": "Schoolhouse Chair | Vintage", 
                 "description": "Vintage Orange and Green Mixed Material 'Schoolhouse' Chair", 
