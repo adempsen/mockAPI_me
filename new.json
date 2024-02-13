@@ -292,6 +292,50 @@
         "cat": "lighting",
         "id": 33
     }
+    ],
+     "metaData": [
+      {
+        "vlr": {
+          "numItems": 11,
+          "numPages": 3
+        },
+        "vdr": {
+          "numItems": 3,
+          "numPages": 1
+        },
+        "vbr": {
+          "numItems": 2,
+          "numPages": 1
+        },
+        "va":{
+          "numItems": 16,
+          "numPages": 4
+        },
+        "clr": {
+          "numItems": 5,
+          "numPages": 2
+        },
+        "cdr": {
+          "numItems": 2,
+          "numPages": 1
+        },
+        "cbr": {
+          "numItems": 2,
+          "numPages": 1
+        },
+        "ca": {
+          "numItems": 9,
+          "numPages": 3
+        },
+        "l": {
+          "numItems": 8,
+          "numPages": 2
+        },
+        "a": {
+          "numItems": 33,
+          "numPages": 9
+        }
+      }
     ]
 }
 
